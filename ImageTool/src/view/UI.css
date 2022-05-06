@@ -1,0 +1,28 @@
+
+#convertBtn{
+    -fx-background-color: #C3ECB2;
+}/* convert button color */
+
+#uploadBtn{
+    -fx-background-color: #AADAFF;
+}/* upload button color */
+
+#reSize{
+    -fx-background-color: #FFF2AF;
+}
+
+#choiceBox{
+    -fx-background-color: #ffe3e3;
+}
+#supportedFormat{
+    -fx-font-size: 20px;
+    -fx-text-fill: #ffffff;
+}
+
+
+
+
+
+
+
+
